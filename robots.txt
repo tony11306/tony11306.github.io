@@ -1,0 +1,6 @@
+# https://www.robotstxt.org/robotstxt.html
+
+Sitemap: https://tony11306.github.io/sitemap.xml
+
+User-agent: *
+Disallow:
